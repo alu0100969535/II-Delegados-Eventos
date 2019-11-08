@@ -13,9 +13,11 @@
 ### Escenario básico y dos tipos de GameObject
 
 ![](img/escenario.png)
+
 ![](img/prefab.png)
 
 ### Controlador de escena
 
 [Controller.cs](script/Controller.cs)
+
 ![](img/controller.gif)
